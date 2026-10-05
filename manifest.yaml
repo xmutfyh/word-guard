@@ -1,0 +1,13 @@
+name: word-guard
+version: 1.0.0
+description: 已有 Word 文档的安全局部编辑与验收（独立运行，无需插件）
+author: Yuanhao Feng
+tags:
+  - docx
+  - word
+  - editing
+  - safe-edit
+  - scope-check
+  - tables
+  - equations
+  - manuscript
